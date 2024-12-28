@@ -3028,7 +3028,7 @@ local function RGUURZ_fake_script() -- Fake Script: Workspace.ScreepstuHub.Conta
     end
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://rentry.co/nwhlc/raw"))()
+		loadstring(game:HttpGet("https://pastebin.com/raw/0fPk2cXF"))()
 	end)
 end
 local function ZNPBH_fake_script() -- Fake Script: Workspace.ScreepstuHub.Container3.TowerOfFun.LocalScript
