@@ -452,7 +452,6 @@ Converted["_UIPadding1"].PaddingRight = UDim.new(0, 8)
 Converted["_UIPadding1"].Parent = Converted["_Time"]
 
 Converted["_Icon"].Image = "rbxassetid://85326294290090"
-Converted["_Icon"].ImageContent = Content
 Converted["_Icon"].Active = false
 Converted["_Icon"].BackgroundColor3 = Color3.fromRGB(46.000001057982445, 46.000001057982445, 46.000001057982445)
 Converted["_Icon"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -509,7 +508,6 @@ Converted["_Horiz_Line1"].Name = "Horiz_Line"
 Converted["_Horiz_Line1"].Parent = Converted["_ScreepstuHub"]
 
 Converted["_RestoreUp"].Image = "rbxassetid://18147245335"
-Converted["_RestoreUp"].ImageContent = Content
 Converted["_RestoreUp"].AnchorPoint = Vector2.new(0.5, 0)
 Converted["_RestoreUp"].BackgroundColor3 = Color3.fromRGB(46.000001057982445, 46.000001057982445, 46.000001057982445)
 Converted["_RestoreUp"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -534,7 +532,6 @@ Converted["_DropShadowHolder"].Parent = Converted["_RestoreUp"]
 
 Converted["_DropShadow"].Image = "rbxassetid://6015897843"
 Converted["_DropShadow"].ImageColor3 = Color3.fromRGB(0, 0, 0)
-Converted["_DropShadow"].ImageContent = Content
 Converted["_DropShadow"].ImageTransparency = 0.5
 Converted["_DropShadow"].ScaleType = Enum.ScaleType.Slice
 Converted["_DropShadow"].SliceCenter = Rect.new(49, 49, 450, 450)
@@ -868,7 +865,6 @@ Converted["_Arsenal"].Name = "Arsenal"
 Converted["_Arsenal"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel"].Image = "rbxassetid://5419205806"
-Converted["_ImageLabel"].ImageContent = Content
 Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BackgroundTransparency = 1
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -913,7 +909,6 @@ Converted["_BananaEats"].Name = "BananaEats"
 Converted["_BananaEats"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel1"].Image = "rbxassetid://17774730801"
-Converted["_ImageLabel1"].ImageContent = Content
 Converted["_ImageLabel1"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel1"].BackgroundTransparency = 1
 Converted["_ImageLabel1"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -958,7 +953,6 @@ Converted["_BrookhavenRP"].Name = "BrookhavenRP"
 Converted["_BrookhavenRP"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel2"].Image = "rbxassetid://17774745481"
-Converted["_ImageLabel2"].ImageContent = Content
 Converted["_ImageLabel2"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel2"].BackgroundTransparency = 1
 Converted["_ImageLabel2"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1003,7 +997,6 @@ Converted["_CheeseEscape"].Name = "CheeseEscape"
 Converted["_CheeseEscape"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel3"].Image = "rbxassetid://18147439565"
-Converted["_ImageLabel3"].ImageContent = Content
 Converted["_ImageLabel3"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel3"].BackgroundTransparency = 1
 Converted["_ImageLabel3"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1048,7 +1041,6 @@ Converted["_ClownKilling"].Name = "ClownKilling"
 Converted["_ClownKilling"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel4"].Image = "rbxassetid://18147415111"
-Converted["_ImageLabel4"].ImageContent = Content
 Converted["_ImageLabel4"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel4"].BackgroundTransparency = 1
 Converted["_ImageLabel4"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1093,7 +1085,6 @@ Converted["_DaHood"].Name = "DaHood"
 Converted["_DaHood"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel5"].Image = "rbxassetid://18147350443"
-Converted["_ImageLabel5"].ImageContent = Content
 Converted["_ImageLabel5"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel5"].BackgroundTransparency = 1
 Converted["_ImageLabel5"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1138,7 +1129,6 @@ Converted["_DollhouseRP"].Name = "DollhouseRP"
 Converted["_DollhouseRP"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel6"].Image = "rbxassetid://18147362179"
-Converted["_ImageLabel6"].ImageContent = Content
 Converted["_ImageLabel6"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel6"].BackgroundTransparency = 1
 Converted["_ImageLabel6"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1183,7 +1173,6 @@ Converted["_FreeRadio"].Name = "FreeRadio"
 Converted["_FreeRadio"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel7"].Image = "rbxassetid://17774818011"
-Converted["_ImageLabel7"].ImageContent = Content
 Converted["_ImageLabel7"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel7"].BackgroundTransparency = 1
 Converted["_ImageLabel7"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1228,7 +1217,6 @@ Converted["_HideNSeekExtreme"].Name = "HideNSeekExtreme"
 Converted["_HideNSeekExtreme"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel8"].Image = "rbxassetid://18147377824"
-Converted["_ImageLabel8"].ImageContent = Content
 Converted["_ImageLabel8"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel8"].BackgroundTransparency = 1
 Converted["_ImageLabel8"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1273,7 +1261,6 @@ Converted["_HoldPeopleTheGame"].Name = "HoldPeopleTheGame"
 Converted["_HoldPeopleTheGame"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel9"].Image = "rbxassetid://18147394921"
-Converted["_ImageLabel9"].ImageContent = Content
 Converted["_ImageLabel9"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel9"].BackgroundTransparency = 1
 Converted["_ImageLabel9"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1318,7 +1305,6 @@ Converted["_MurderMystery2"].Name = "MurderMystery2"
 Converted["_MurderMystery2"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel10"].Image = "rbxassetid://15932862165"
-Converted["_ImageLabel10"].ImageContent = Content
 Converted["_ImageLabel10"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel10"].BackgroundTransparency = 1
 Converted["_ImageLabel10"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1363,7 +1349,6 @@ Converted["_StopItSlender"].Name = "StopItSlender"
 Converted["_StopItSlender"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel11"].Image = "rbxassetid://17774939283"
-Converted["_ImageLabel11"].ImageContent = Content
 Converted["_ImageLabel11"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel11"].BackgroundTransparency = 1
 Converted["_ImageLabel11"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1408,7 +1393,6 @@ Converted["_TowerOfFun"].Name = "TowerOfFun"
 Converted["_TowerOfFun"].Parent = Converted["_Container3"]
 
 Converted["_ImageLabel12"].Image = "rbxassetid://17774915434"
-Converted["_ImageLabel12"].ImageContent = Content
 Converted["_ImageLabel12"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel12"].BackgroundTransparency = 1
 Converted["_ImageLabel12"].BorderColor3 = Color3.fromRGB(0, 0, 0)
